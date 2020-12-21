@@ -1,0 +1,11 @@
+models\School.class
+models\Student.class
+functions\Util.class
+functions\Injector.class
+models\Assignment.class
+models\Course.class
+functions\Synthetic.class
+models\Menu.class
+privateSchool\PrivateSchool.class
+functions\Maker.class
+models\Trainer.class
